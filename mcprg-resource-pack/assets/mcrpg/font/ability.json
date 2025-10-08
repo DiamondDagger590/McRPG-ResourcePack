@@ -18,7 +18,7 @@
       "height": 16,
       "ascent": 14,
       "chars": ["Ɲ"],
-      "x_advance": 16
+      "x_advance": 0
     },
     {
       "type": "bitmap",
@@ -26,7 +26,7 @@
       "height": 16,
       "ascent": 14,
       "chars": ["ƞ"],
-      "x_advance": 16
+      "x_advance": 0
     },
     {
       "type": "bitmap",
