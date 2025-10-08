@@ -1,0 +1,48 @@
+{
+  "providers": [
+   { 
+   "type": "space",
+   "advances": {
+      "û": 16,
+      "ü": -16,
+	  "ù": 8,
+      "ú": -8,
+	  "÷": 2,
+      "ø": -2,
+	  "ö": 1,
+      "õ": -1
+    }},
+    {
+      "type": "bitmap",
+      "file": "mcrpg:font/ability/ability_wip.png",
+      "height": 16,
+      "ascent": 14,
+      "chars": ["Ɲ"],
+      "x_advance": 0
+    },
+    {
+      "type": "bitmap",
+      "file": "mcrpg:font/ability/ability_wip_s1.png",
+      "height": 16,
+      "ascent": 14,
+      "chars": ["ƞ"],
+      "x_advance": 0
+    },
+    {
+      "type": "bitmap",
+      "file": "mcrpg:font/ability/left_click_mouse.png",
+      "height": 4,
+      "ascent": -1,
+      "chars": ["ÿ"],
+      "x_advance": 0
+    },
+    {
+      "type": "bitmap",
+      "file": "mcrpg:font/ability/right_click_mouse.png",
+      "height": 4,
+      "ascent": -1,
+      "chars": ["þ"],
+      "x_advance": 0
+    }
+  ]
+}
