@@ -48,7 +48,7 @@
       "type": "bitmap",
       "file": "mcrpg:font/ability/ability_wip_s1.png",
       "height": 16,
-      "ascent": -50,
+      "ascent": -42,
       "chars": ["ô"],
       "x_advance": 0
     }
