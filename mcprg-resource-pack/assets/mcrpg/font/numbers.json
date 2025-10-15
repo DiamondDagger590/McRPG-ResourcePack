@@ -1,0 +1,84 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "mcrpg:font/numbers/0.png",
+      "height": 9,
+      "ascent": 3,
+      "chars": ["ÿ"],
+      "x_advance": 0
+    },
+    {
+      "type": "bitmap",
+      "file": "mcrpg:font/numbers/1.png",
+      "height": 9,
+      "ascent": 3,
+      "chars": ["þ"],
+      "x_advance": 0
+    },
+	{
+      "type": "bitmap",
+      "file": "mcrpg:font/numbers/2.png",
+      "height": 9,
+      "ascent": 3,
+      "chars": ["ý"],
+      "x_advance": 0
+    },
+	{
+      "type": "bitmap",
+      "file": "mcrpg:font/numbers/3.png",
+      "height": 9,
+      "ascent": 3,
+      "chars": ["ü"],
+      "x_advance": 0
+    },
+	{
+      "type": "bitmap",
+      "file": "mcrpg:font/numbers/4.png",
+      "height": 9,
+      "ascent": 3,
+      "chars": ["û"],
+      "x_advance": 0
+    },
+	{
+      "type": "bitmap",
+      "file": "mcrpg:font/numbers/5.png",
+      "height": 9,
+      "ascent": 3,
+      "chars": ["ú"],
+      "x_advance": 0
+    },
+	{
+      "type": "bitmap",
+      "file": "mcrpg:font/numbers/6.png",
+      "height": 9,
+      "ascent": 3,
+      "chars": ["ù"],
+      "x_advance": 0
+    },
+	{
+      "type": "bitmap",
+      "file": "mcrpg:font/numbers/7.png",
+      "height": 9,
+      "ascent": 3,
+      "chars": ["ø"],
+      "x_advance": 0
+    },
+	{
+      "type": "bitmap",
+      "file": "mcrpg:font/numbers/8.png",
+      "height": 9,
+      "ascent": 3,
+      "chars": ["÷"],
+      "x_advance": 0
+    },
+	{
+      "type": "bitmap",
+      "file": "mcrpg:font/numbers/9.png",
+      "height": 9,
+      "ascent": 3,
+      "chars": ["ö"],
+      "x_advance": 0
+    },
+  ]
+}

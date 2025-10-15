@@ -51,6 +51,14 @@
       "ascent": -47,
       "chars": ["ô"],
       "x_advance": 0
+    },
+		{
+      "type": "bitmap",
+      "file": "mcrpg:font/ability/cooldown_overlay.png",
+      "height": 16,
+      "ascent": 14,
+      "chars": ["ó"],
+      "x_advance": 0
     }
   ]
 }
